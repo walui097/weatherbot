@@ -86,8 +86,8 @@ public class TimerExecutor {
         while (localNow.compareTo(localNextTarget) > 0) {
             localNextTarget = localNextTarget.plusDays(1);
         }
-		System.out.println(localNow);
-
+		System.out.println("localNow" + localNow);
+		System.out.println("localNextTarget" + localNextTarget);
         final Duration duration = Duration.between(localNow, localNextTarget);
         return duration.getSeconds();
     }

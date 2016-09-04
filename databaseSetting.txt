@@ -1,0 +1,22 @@
+Setting up MySQL Accounts 
+ 
+1. Open a Command Window (StartARunAcmd) and execute the following command.   
+
+	cd ......\bin\mysql-5.5.8-win32\bin  
+	mysqld    --verbose  
+
+2. Open another Command Window. Change directory to MySQL and start the MySQL monitor. 
+ 
+  cd ......mysql-5.5.8-win32\bin 
+	mysql -h localhost -u root 
+  
+3. At the mysql> prompt, type  
+
+	USE mysql;  
+	create user 'weatherbot'@'localhost' identified by 'guest'; grant select, insert, update, delete, create, drop, references, execute on *.* to 'weatherbot'@'localhost'; exit;  
+	
+4. Add WeatherBot.sql
+
+	mysql -h localhost -u weatherbot -p 
+	source .....WeatherBot.sql;  
+ 

@@ -23,4 +23,7 @@
 <fullyQualifiedTypeName name="org.jsoup.Jsoup"/>
 <fullyQualifiedTypeName name="org.telegram.services.TimerExecutor"/>
 <fullyQualifiedTypeName name="org.telegram.services.CustomTimerTask"/>
+<fullyQualifiedTypeName name="org.telegram.BotConfig"/>
+<fullyQualifiedTypeName name="org.telegram.database.DatabaseManager"/>
+<fullyQualifiedTypeName name="org.telegram.database.DatabaseManager.WeatherSubscribe"/>
 </qualifiedTypeNameHistroy>

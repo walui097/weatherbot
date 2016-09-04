@@ -23,3 +23,69 @@ InnoDB: Foreign key constraint system tables created
 160903  8:51:42 [Note] Event Scheduler: Loaded 0 events
 160903  8:51:42 [Note] mysqld: ready for connections.
 Version: '5.5.8'  socket: ''  port: 3306  MySQL Community Server (GPL)
+160904 14:42:39 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+160904 14:42:39  InnoDB: Initializing buffer pool, size = 128.0M
+160904 14:42:39  InnoDB: Completed initialization of buffer pool
+160904 14:42:39  InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160904 14:42:39  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160904 14:42:40  InnoDB: 1.1.4 started; log sequence number 2016799
+160904 14:42:40 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+160904 14:42:40 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+160904 14:42:40 [ERROR] Aborting
+
+160904 14:42:40  InnoDB: Starting shutdown...
+160904 14:42:41  InnoDB: Shutdown completed; log sequence number 2016799
+160904 14:42:41 [Note] mysqld: Shutdown complete
+
+160904 14:43:05 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+160904 14:43:05  InnoDB: Initializing buffer pool, size = 128.0M
+160904 14:43:05  InnoDB: Completed initialization of buffer pool
+160904 14:43:05  InnoDB: highest supported file format is Barracuda.
+160904 14:43:05  InnoDB: 1.1.4 started; log sequence number 2016799
+160904 14:43:05 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+160904 14:43:05 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+160904 14:43:05 [ERROR] Aborting
+
+160904 14:43:05  InnoDB: Starting shutdown...
+160904 14:43:06  InnoDB: Shutdown completed; log sequence number 2016799
+160904 14:43:06 [Note] mysqld: Shutdown complete
+
+160904 20:37:53 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+160904 20:37:53  InnoDB: Initializing buffer pool, size = 128.0M
+160904 20:37:53  InnoDB: Completed initialization of buffer pool
+160904 20:37:53  InnoDB: highest supported file format is Barracuda.
+160904 20:37:53  InnoDB: 1.1.4 started; log sequence number 2016799
+160904 20:37:53 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+160904 20:37:53 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+160904 20:37:53 [ERROR] Aborting
+
+160904 20:37:53  InnoDB: Starting shutdown...
+160904 20:37:54  InnoDB: Shutdown completed; log sequence number 2016799
+160904 20:37:54 [Note] mysqld: Shutdown complete
+
+160904 20:40:02 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+160904 20:40:02  InnoDB: Initializing buffer pool, size = 128.0M
+160904 20:40:02  InnoDB: Completed initialization of buffer pool
+160904 20:40:02  InnoDB: highest supported file format is Barracuda.
+160904 20:40:02  InnoDB: 1.1.4 started; log sequence number 2016799
+160904 20:40:02 [Note] Event Scheduler: Loaded 0 events
+160904 20:40:02 [Note] mysqld: ready for connections.
+Version: '5.5.8'  socket: ''  port: 3306  MySQL Community Server (GPL)

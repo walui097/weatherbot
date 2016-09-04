@@ -8,6 +8,6 @@ public class BotConfig {
     public static final String linkDB = "jdbc:mysql://localhost:3306/weatherbot?useUnicode=true&characterEncoding=UTF-8";
     public static final String controllerDB = "com.mysql.jdbc.Driver";
     public static final String userDB = "weatherbot";
-    public static final String password = "weatherbot";
+    public static final String password = "guest";
 
 }

@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.telegram.BotConfig;
+import org.telegram.database.DatabaseManager;
+import org.telegram.database.DatabaseManager.WeatherSubscribe;
 import org.telegram.services.CustomTimerTask;
 import org.telegram.services.LanguageServices;
 import org.telegram.services.TimerExecutor;
@@ -27,52 +29,52 @@ public class HKWeatherHandlers extends TelegramLongPollingBot {
     private static final int SUBSCRIBE = 3;
     private static final int LANGUAGE = 4;
     
-    private static String userId;    
-    private static int state = STARTSTATUS;
-    private static String language = "en"; 
+//    private static String userId;    
+//    private static int state = STARTSTATUS;
+//    private static String language = "en"; 
     
-    private static boolean isSubscribeCurrentWeather = false;
-    private static boolean isSubscribeWarning = false;
+//    private static boolean isSubscribeCurrentWeather = false;
+//    private static boolean isSubscribeWarning = false;
     
-    private static void setState(int mstate){
-    	state = mstate;
-    }
-
-    private static int getState(){
-    	return state;
-    }
+//    private static void setState(int mstate){
+//    	state = mstate;
+//    }
+//
+//    private static int getState(){
+//    	return state;
+//    }
     
-    private static void setLanguage(String mlanguage){
-    	language = mlanguage;
-    }
-
-    private static String getLanguage(){
-    	return language;
-    }
+//    private static void setLanguage(String mlanguage){
+//    	language = mlanguage;
+//    }
+//
+//    private static String getLanguage(){
+//    	return language;
+//    }
     
-    private static void setUserId(String muserId){
-    	userId = muserId;
-    }
-
-    private static String getUserId(){
-    	return userId;
-    }
+//    private static void setUserId(String muserId){
+//    	userId = muserId;
+//    }
+//
+//    private static String getUserId(){
+//    	return userId;
+//    }
     
-    private static void setIsSubscribeCurrentWeather(boolean misSubscribeCurrentWeather){
-    	isSubscribeCurrentWeather = misSubscribeCurrentWeather;
-    }
-
-    private static boolean getIsSubscribeCurrentWeather(){
-    	return isSubscribeCurrentWeather;
-    }
-    
-    private static void setIsSubscribeWarning(boolean misSubscribeWarning){
-    	isSubscribeWarning = misSubscribeWarning;
-    }
-
-    private static boolean getIsSubscribeWarning(){
-    	return isSubscribeWarning;
-    }
+//    private static void setIsSubscribeCurrentWeather(boolean misSubscribeCurrentWeather){
+//    	isSubscribeCurrentWeather = misSubscribeCurrentWeather;
+//    }
+//
+//    private static boolean getIsSubscribeCurrentWeather(){
+//    	return isSubscribeCurrentWeather;
+//    }
+//    
+//    private static void setIsSubscribeWarning(boolean misSubscribeWarning){
+//    	isSubscribeWarning = misSubscribeWarning;
+//    }
+//
+//    private static boolean getIsSubscribeWarning(){
+//    	return isSubscribeWarning;
+//    }
     
     public HKWeatherHandlers() {
         super();
@@ -85,68 +87,73 @@ public class HKWeatherHandlers extends TelegramLongPollingBot {
     }
     
     private void startAlertTimers() {
-    	for(int i=0; i<48; i++)
+    	for(int i=0; i<60; i++)
     	{    	
 	        TimerExecutor.getInstance().startExecutionEveryDayAt(new CustomTimerTask(i + " alert", -1) {
 	            @Override
 	            public void execute() {
 	                sendAlerts();
 	            }
-	        }, i%2, (i%2)*30, 0);
+	        }, 12, i, 0);
     	}
     }
 
     private void sendAlerts() {
-    	
-    	if(getIsSubscribeCurrentWeather())
-    	{  
-            synchronized (Thread.currentThread()) {
-                try {
-                    Thread.currentThread().wait(35);
-                } catch (InterruptedException e) {
-                    BotLogger.severe(LOGTAG, e);
-                }
-            }    		
-    		
-	        SendMessage sendMessage = new SendMessage();
-	        sendMessage.setChatId(getUserId());
-	        sendMessage.setText(WeatherServices.getInstance().fetchCurrentWeather(language));
+    	List<WeatherSubscribe> allSubscribes = DatabaseManager.getInstance().getAllSubscribes();
+        for (WeatherSubscribe weatherSubscribe : allSubscribes) {
+            
+	        if (weatherSubscribe.getSubscribeCurrentWeather())
+	        {
+	            synchronized (Thread.currentThread()) {
+	                try {
+	                    Thread.currentThread().wait(100);
+	                } catch (InterruptedException e) {
+	                    BotLogger.severe(LOGTAG, e);
+	                }
+	            }
+	        	
+	            SendMessage sendMessage = new SendMessage();
+	            sendMessage.enableMarkdown(true);
+		        sendMessage.setChatId(String.valueOf(weatherSubscribe.getUserId()));
+	        	
+		        sendMessage.setText(WeatherServices.getInstance().fetchCurrentWeather(
+		        		DatabaseManager.getInstance().getLanguage(weatherSubscribe.getUserId())));	
+		        
+		        try {
+	                sendMessage(sendMessage);
+	            } catch (TelegramApiException e) {
+	                BotLogger.warn(LOGTAG, e);
+	            } catch (Exception e) {
+	                BotLogger.severe(LOGTAG, e);
+	            }
+	        }
 
-	        try {
-                sendMessage(sendMessage);
-            } catch (TelegramApiException e) {
-                BotLogger.warn(LOGTAG, e);
-            } catch (Exception e) {
-                BotLogger.severe(LOGTAG, e);
-            }       
-	        
-    		System.out.println("getIsSubscribeCurrentWeather()");
-    	}
-    	
-    	if(getIsSubscribeWarning())
-    	{     
-            synchronized (Thread.currentThread()) {
-                try {
-                    Thread.currentThread().wait(35);
-                } catch (InterruptedException e) {
-                    BotLogger.severe(LOGTAG, e);
+            if (weatherSubscribe.getSubscribeWarning())
+            {
+                synchronized (Thread.currentThread()) {
+                    try {
+                        Thread.currentThread().wait(100);
+                    } catch (InterruptedException e) {
+                        BotLogger.severe(LOGTAG, e);
+                    }
                 }
-            }
-    		
-	        SendMessage sendMessage = new SendMessage();
-	        sendMessage.setChatId(getUserId());
-	        sendMessage.setText(WeatherServices.getInstance().fetchCurrentWarning(language));
-
-	        try {
-                sendMessage(sendMessage);
-            } catch (TelegramApiException e) {
-                BotLogger.warn(LOGTAG, e);
-            } catch (Exception e) {
-                BotLogger.severe(LOGTAG, e);
-            }       
-	        
-    		System.out.println("getIsSubscribeWarning()");
-    	}
+            	
+                SendMessage sendMessage = new SendMessage();
+                sendMessage.enableMarkdown(true);
+    	        sendMessage.setChatId(String.valueOf(weatherSubscribe.getUserId()));
+            	
+		        sendMessage.setText(WeatherServices.getInstance().fetchCurrentWarning(
+		        		DatabaseManager.getInstance().getLanguage(weatherSubscribe.getUserId())));
+		        
+		        try {
+	                sendMessage(sendMessage);
+	            } catch (TelegramApiException e) {
+	                BotLogger.warn(LOGTAG, e);
+	            } catch (Exception e) {
+	                BotLogger.severe(LOGTAG, e);
+	            }
+	        } 
+        }
     }
 
     @Override
@@ -170,21 +177,21 @@ public class HKWeatherHandlers extends TelegramLongPollingBot {
  
     private void handleIncomingMessage(Message message) throws TelegramApiException {        
 
-    	final String mlanguage = getLanguage();    	
+    	final String mlanguage = DatabaseManager.getInstance().getLanguage(message.getFrom().getId());    	
 		
     	if(message.hasText())
     	{
     		if(message.getText().equals("/start"))
     		{
-	    		setState(MAINMENU);
+    			DatabaseManager.getInstance().setUserState(message.getFrom().getId(), MAINMENU);
     		}
     		else if(message.getText().equals("/stop")){
-    			setState(STARTSTATUS);
+    			DatabaseManager.getInstance().setUserState(message.getFrom().getId(), STARTSTATUS);
     		}
     	}
     	
     	SendMessage sendMessageRequest;
-        switch(getState()) {
+        switch(DatabaseManager.getInstance().getUserState(message.getFrom().getId())) {
             case MAINMENU:
             	sendMessageRequest = messageOnMainMenu(message, mlanguage);
                 break;
@@ -253,9 +260,9 @@ public class HKWeatherHandlers extends TelegramLongPollingBot {
         sendMessageRequest.setChatId(chatId.toString());
         sendMessageRequest.setText("https://telegram.me/xxhkweatherbot?startgroup=true");
         sendMessageRequest.setReplyToMessageId(messageId);        
-        sendMessageRequest.setReplyMarkup(getMainMenuKeyboard(getLanguage()));
+        sendMessageRequest.setReplyMarkup(getMainMenuKeyboard(DatabaseManager.getInstance().getLanguage(userId)));
         
-        setState(MAINMENU);
+		DatabaseManager.getInstance().setUserState(userId, MAINMENU);
         
         return sendMessageRequest;
     }
@@ -270,7 +277,7 @@ public class HKWeatherHandlers extends TelegramLongPollingBot {
         sendMessage.setChatId(message.getChatId().toString());
         sendMessage.setText(getQueryWeathersMessage(language));
         
-        setState(QUERYWEATHER);
+		DatabaseManager.getInstance().setUserState(message.getFrom().getId(), QUERYWEATHER);
         
         return sendMessage;
     }
@@ -319,11 +326,11 @@ public class HKWeatherHandlers extends TelegramLongPollingBot {
     }
     
     private static SendMessage sendQueryWeatherChosenMessage(Integer userId, Long chatId, Integer messageId, String queryweather) {
-    	String responseToUser = LanguageServices.getInstance().getString("errorFetchingWeather", getLanguage());
-    	if (queryweather.equals(getCurrentWeatherCommand(language))){    		
-    		responseToUser = WeatherServices.getInstance().fetchCurrentWeather(getLanguage()); 
-    	} else if (queryweather.equals(getWarningCommand(language))){    		
-    		responseToUser = WeatherServices.getInstance().fetchCurrentWarning(getLanguage()); 
+    	String responseToUser = LanguageServices.getInstance().getString("errorFetchingWeather", DatabaseManager.getInstance().getLanguage(userId));
+    	if (queryweather.equals(getCurrentWeatherCommand(DatabaseManager.getInstance().getLanguage(userId)))){    		
+    		responseToUser = WeatherServices.getInstance().fetchCurrentWeather(DatabaseManager.getInstance().getLanguage(userId)); 
+    	} else if (queryweather.equals(getWarningCommand(DatabaseManager.getInstance().getLanguage(userId)))){    		
+    		responseToUser = WeatherServices.getInstance().fetchCurrentWarning(DatabaseManager.getInstance().getLanguage(userId)); 
     	}
     	
         SendMessage sendMessageRequest = new SendMessage();
@@ -331,9 +338,9 @@ public class HKWeatherHandlers extends TelegramLongPollingBot {
         sendMessageRequest.setChatId(chatId.toString());
         sendMessageRequest.setText(responseToUser);
         sendMessageRequest.setReplyToMessageId(messageId);
-        sendMessageRequest.setReplyMarkup(getMainMenuKeyboard(getLanguage()));
+        sendMessageRequest.setReplyMarkup(getMainMenuKeyboard(DatabaseManager.getInstance().getLanguage(userId)));
         
-        setState(MAINMENU);
+		DatabaseManager.getInstance().setUserState(userId, MAINMENU);
         
         return sendMessageRequest;
     }
@@ -348,7 +355,7 @@ public class HKWeatherHandlers extends TelegramLongPollingBot {
         sendMessage.setChatId(message.getChatId().toString());
         sendMessage.setText(getSubscribesMessage(language));
         
-        setState(SUBSCRIBE);
+		DatabaseManager.getInstance().setUserState(message.getFrom().getId(), SUBSCRIBE);
         
         return sendMessage;
     }
@@ -402,30 +409,28 @@ public class HKWeatherHandlers extends TelegramLongPollingBot {
     
     private static SendMessage sendSubscribeChosenMessage(Integer userId, Long chatId, Integer messageId, String subscribe) {
 
-    	if (subscribe.equals(getSubscribeCurrentWeatherCommand(getLanguage()))){    		
-    		setUserId(chatId.toString());
-    		setIsSubscribeCurrentWeather(true);
+    	if (subscribe.equals(getSubscribeCurrentWeatherCommand(DatabaseManager.getInstance().getLanguage(userId)))){    		
+    		DatabaseManager.getInstance().setCurrentWeatherSubscribe(userId, true);
         	System.out.println("SUBSCRIBECURRENTWEATHER");
-    	} else if (subscribe.equals(getSubscribeWarningCommand(getLanguage()))){    		
-    		setUserId(chatId.toString());
-    		setIsSubscribeWarning(true);
+    	} else if (subscribe.equals(getSubscribeWarningCommand(DatabaseManager.getInstance().getLanguage(userId)))){    		
+    		DatabaseManager.getInstance().setWarningSubscribe(userId, true);
         	System.out.println("SUBSCRIBEWARNING");
-    	} else if (subscribe.equals(getUnsubscribeCurrentWeatherCommand(getLanguage()))){    		
-    		setIsSubscribeCurrentWeather(false);
+    	} else if (subscribe.equals(getUnsubscribeCurrentWeatherCommand(DatabaseManager.getInstance().getLanguage(userId)))){    		
+    		DatabaseManager.getInstance().setCurrentWeatherSubscribe(userId, false);
         	System.out.println("UNSUBSCRIBECURRENTWEATHER");
-    	} else if (subscribe.equals(getUnsubscribeWarningCommand(getLanguage()))){    		
-    		setIsSubscribeWarning(false);
+    	} else if (subscribe.equals(getUnsubscribeWarningCommand(DatabaseManager.getInstance().getLanguage(userId)))){    		
+    		DatabaseManager.getInstance().setWarningSubscribe(userId, false);
         	System.out.println("UNSUBSCRIBEWARNING");
     	}  	
     	
         SendMessage sendMessageRequest = new SendMessage();
         sendMessageRequest.enableMarkdown(true);
         sendMessageRequest.setChatId(chatId.toString());
-        sendMessageRequest.setText(LanguageServices.getInstance().getString("subscribeUpdated", getLanguage()));
+        sendMessageRequest.setText(LanguageServices.getInstance().getString("subscribeUpdated", DatabaseManager.getInstance().getLanguage(userId)));
         sendMessageRequest.setReplyToMessageId(messageId);
-        sendMessageRequest.setReplyMarkup(getMainMenuKeyboard(getLanguage()));
+        sendMessageRequest.setReplyMarkup(getMainMenuKeyboard(DatabaseManager.getInstance().getLanguage(userId)));
         
-        setState(MAINMENU);
+		DatabaseManager.getInstance().setUserState(userId, MAINMENU);
         
         return sendMessageRequest;
     }
@@ -440,7 +445,7 @@ public class HKWeatherHandlers extends TelegramLongPollingBot {
         sendMessage.setChatId(message.getChatId().toString());
         sendMessage.setText(getLanguagesMessage(language));
         
-        setState(LANGUAGE);
+		DatabaseManager.getInstance().setUserState(message.getFrom().getId(), LANGUAGE);
         
         return sendMessage;
     }
@@ -491,17 +496,18 @@ public class HKWeatherHandlers extends TelegramLongPollingBot {
 
     private static SendMessage sendLanguageChosenMessage(Integer userId, Long chatId, Integer messageId, String language) {
         
-    	String languageCode = LanguageServices.getInstance().getLanguageCodeByName(language);        
-        setLanguage(languageCode);
+    	String languageCode = LanguageServices.getInstance().getLanguageCodeByName(language);   
+    	
+    	DatabaseManager.getInstance().setLanguage(userId, languageCode);
 
         SendMessage sendMessageRequest = new SendMessage();
         sendMessageRequest.enableMarkdown(true);
         sendMessageRequest.setChatId(chatId.toString());
-        sendMessageRequest.setText(LanguageServices.getInstance().getString("languageUpdated", languageCode));
+        sendMessageRequest.setText(LanguageServices.getInstance().getString("languageUpdated", DatabaseManager.getInstance().getLanguage(userId)));
         sendMessageRequest.setReplyToMessageId(messageId);
         sendMessageRequest.setReplyMarkup(getMainMenuKeyboard(languageCode));
 
-        setState(MAINMENU);
+		DatabaseManager.getInstance().setUserState(userId, MAINMENU);
         
         return sendMessageRequest;
     }

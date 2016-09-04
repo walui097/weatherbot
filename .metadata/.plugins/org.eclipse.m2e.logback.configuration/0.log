@@ -3976,3 +3976,1435 @@
 2016-09-04 09:59:32,663 [Worker-581] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
 2016-09-04 09:59:32,664 [Worker-581] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-09-04 09:59:32,664 [Worker-581] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot\weatherbot\src\test\resources
+2016-09-04 13:51:26,587 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 13:51:26,613 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 13:51:26,622 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 13:51:26,622 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 13:51:31,054 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 13:51:31,060 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 13:51:31,062 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 13:51:31,062 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 13:51:40,947 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 13:51:40,949 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 13:51:40,951 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 13:51:40,952 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 13:52:21,881 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 13:52:21,883 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 13:52:21,885 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 13:52:21,885 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 13:56:42,530 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 13:56:42,532 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 13:56:42,534 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 13:56:42,535 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 13:57:04,351 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 13:57:04,353 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 13:57:04,355 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 13:57:04,355 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 13:57:15,249 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 13:57:15,251 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 13:57:15,253 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 13:57:15,253 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 13:57:22,095 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 13:57:22,097 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 13:57:22,108 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 13:57:22,110 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 13:58:40,801 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 13:58:40,803 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 13:58:40,805 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 13:58:40,805 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 13:58:49,599 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 13:58:49,601 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 13:58:49,603 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 13:58:49,603 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 13:59:13,209 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 13:59:13,225 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 13:59:13,225 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 13:59:13,225 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 13:59:25,974 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 13:59:25,974 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 13:59:25,974 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 13:59:25,974 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:07:45,272 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:07:45,272 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:07:45,288 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:07:45,288 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:07:51,929 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:07:51,945 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:07:51,945 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:07:51,945 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:08:03,466 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:08:03,466 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:08:03,466 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:08:03,466 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:09:53,437 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:09:53,437 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:09:53,437 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:09:53,437 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:09:57,078 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:09:57,078 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:09:57,078 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:09:57,078 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:10:03,047 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:10:03,047 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:10:03,047 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:10:03,047 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:10:06,454 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:10:06,454 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:10:06,470 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:10:06,470 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:10:16,924 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:10:16,924 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:10:16,939 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:10:16,939 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:10:25,378 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:10:25,378 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:10:25,378 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:10:25,378 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:10:31,300 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:10:31,300 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:10:31,300 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:10:31,300 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:10:45,175 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:10:45,175 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:10:45,175 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:10:45,175 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:11:05,081 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:11:05,081 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:11:05,081 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:11:05,081 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:11:24,677 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:11:24,677 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:11:24,677 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:11:24,677 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:11:36,205 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:11:36,205 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:11:36,205 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:11:36,205 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:11:45,613 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:11:45,613 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:11:45,613 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:11:45,613 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:24:59,801 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:24:59,801 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:24:59,801 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:24:59,801 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:27:07,458 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:27:07,458 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:27:07,458 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:27:07,458 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:27:19,868 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:27:19,868 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:27:19,868 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:27:19,868 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:27:23,634 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:27:23,634 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:27:23,634 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:27:23,634 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:27:39,933 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:27:39,933 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:27:39,933 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:27:39,933 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:28:47,595 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:28:47,595 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:28:47,595 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:28:47,595 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:31:34,554 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:31:34,554 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:31:34,554 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:31:34,554 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:32:35,574 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:32:35,574 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:32:35,574 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:32:35,574 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:32:48,227 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:32:48,227 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:32:48,227 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:32:48,227 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:33:23,615 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:33:23,615 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:33:23,615 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:33:23,615 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:34:14,746 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:34:14,746 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:34:14,746 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:34:14,746 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:34:23,258 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:34:23,258 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:34:23,258 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:34:23,258 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:34:47,433 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:34:47,433 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:34:47,448 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:34:47,448 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:35:27,940 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:35:27,940 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:35:27,940 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:35:27,940 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:37:10,312 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:37:10,312 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:37:10,312 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:37:10,312 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:37:53,667 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:37:53,667 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:37:53,667 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:37:53,667 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:38:34,676 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:38:34,692 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:38:34,692 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:38:34,692 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:38:43,789 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:38:43,789 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:38:43,789 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:38:43,789 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:38:49,024 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:38:49,024 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:38:49,039 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:38:49,039 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:38:53,634 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:38:53,634 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:38:53,634 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:38:53,634 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:39:21,120 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:39:21,120 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:39:21,120 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:39:21,120 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:39:28,011 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:39:28,011 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:39:28,011 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:39:28,011 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:39:34,746 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:39:34,762 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:39:34,762 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:39:34,762 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:39:49,384 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:39:49,384 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:39:49,384 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:39:49,384 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:40:15,161 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:40:15,161 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:40:15,176 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:40:15,176 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:40:23,693 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:40:23,693 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:40:23,693 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:40:23,693 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:40:27,115 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:40:27,115 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:40:27,115 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:40:27,115 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:40:37,694 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:40:37,694 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:40:37,694 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:40:37,694 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:40:43,898 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:40:43,898 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:40:43,898 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:40:43,898 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:41:08,718 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:41:08,718 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:41:08,718 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:41:08,718 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:41:13,984 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:41:13,984 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:41:13,984 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:41:13,984 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:41:31,472 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:41:31,472 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:41:31,472 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:41:31,472 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:41:36,723 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:41:36,723 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:41:36,723 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:41:36,723 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:41:50,679 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:41:50,679 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:41:50,679 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:41:50,679 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:47:01,297 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:47:01,297 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:47:01,297 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:47:01,297 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:49:38,719 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:49:38,719 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:49:38,719 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:49:38,719 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:51:55,812 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:51:55,812 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:51:55,812 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:51:55,812 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:52:01,391 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:52:01,391 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:52:01,391 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:52:01,391 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:52:10,377 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:52:10,377 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:52:10,377 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:52:10,377 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:54:12,055 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:54:12,055 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:54:12,055 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:54:12,055 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:54:18,712 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:54:18,712 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:54:18,712 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:54:18,712 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:54:21,525 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:54:21,525 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:54:21,525 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:54:21,525 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:54:27,510 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:54:27,510 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:54:27,510 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:54:27,510 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:54:39,543 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:54:39,543 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:54:39,543 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:54:39,543 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:54:45,450 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:54:45,450 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:54:45,450 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:54:45,450 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:54:50,013 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:54:50,013 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:54:50,013 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:54:50,013 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:55:02,639 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:55:02,639 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:55:02,639 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:55:02,639 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:55:40,869 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:55:40,869 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:55:40,869 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:55:40,869 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:56:06,981 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:56:06,981 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:56:06,981 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:56:06,981 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:56:13,216 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:56:13,232 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:56:13,232 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:56:13,232 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:56:23,843 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:56:23,858 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:56:23,858 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:56:23,858 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:56:34,062 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:56:34,078 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:56:34,078 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:56:34,078 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:56:40,704 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:56:40,704 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:56:40,704 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:56:40,704 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:56:46,095 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:56:46,095 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:56:46,095 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:56:46,095 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:56:47,845 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:56:47,845 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:56:47,845 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:56:47,845 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:56:53,408 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:56:53,408 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:56:53,408 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:56:53,408 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:57:00,581 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:57:00,581 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:57:00,581 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:57:00,581 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:57:11,051 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:57:11,051 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:57:11,051 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:57:11,051 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:57:22,927 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:57:22,927 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:57:22,927 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:57:22,927 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:57:56,009 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:57:56,009 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:57:56,009 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:57:56,009 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:58:02,697 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:58:02,697 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:58:02,697 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:58:02,697 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:58:17,449 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:58:17,449 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:58:17,449 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:58:17,449 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:58:23,059 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:58:23,059 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:58:23,059 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:58:23,059 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:58:36,701 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:58:36,701 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:58:36,701 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:58:36,701 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:58:43,998 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:58:43,998 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:58:43,998 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:58:43,998 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:58:54,515 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:58:54,515 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:58:54,515 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:58:54,515 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:58:59,094 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:58:59,094 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:58:59,094 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:58:59,094 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:59:07,595 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:59:07,595 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:59:07,610 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:59:07,610 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:59:16,267 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:59:16,267 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:59:16,267 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:59:16,267 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:59:18,205 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:59:18,205 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:59:18,205 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:59:18,205 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:59:25,675 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:59:25,675 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:59:25,675 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:59:25,675 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:59:43,177 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:59:43,177 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:59:43,177 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:59:43,177 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 14:59:54,506 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:59:54,506 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 14:59:54,506 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 14:59:54,506 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:00:18,524 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:00:18,524 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:00:18,524 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:00:18,524 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:00:26,025 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:00:26,025 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:00:26,025 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:00:26,025 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:00:53,512 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:00:53,512 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:00:53,512 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:00:53,512 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:00:58,607 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:00:58,607 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:00:58,607 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:00:58,607 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:04:44,216 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:04:44,216 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:04:44,216 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:04:44,216 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:04:49,201 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:04:49,201 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:04:49,201 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:04:49,201 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:04:53,795 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:04:53,795 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:04:53,795 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:04:53,795 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:08:54,430 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:08:54,446 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:08:54,446 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:08:54,446 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:09:04,791 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:09:04,791 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:09:04,806 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:09:04,806 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:09:07,525 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:09:07,525 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:09:07,525 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:09:07,525 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:09:38,185 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:09:38,185 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:09:38,185 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:09:38,185 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:09:47,733 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:09:47,733 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:09:47,733 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:09:47,733 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:09:55,296 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:09:55,296 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:09:55,296 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:09:55,296 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:10:03,860 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:10:03,860 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:10:03,860 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:10:03,860 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:11:22,399 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:11:22,399 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:11:22,399 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:11:22,399 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:11:35,557 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:11:35,557 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:11:35,557 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:11:35,557 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:11:38,464 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:11:38,479 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:11:38,479 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:11:38,479 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:11:44,183 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:11:44,199 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:11:44,199 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:11:44,199 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:11:48,808 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:11:48,808 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:11:48,808 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:11:48,808 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:11:51,731 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:11:51,746 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:11:51,746 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:11:51,746 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:11:59,888 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:11:59,903 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:11:59,903 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:11:59,903 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:12:07,248 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:12:07,264 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:12:07,264 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:12:07,264 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:12:12,733 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:12:12,733 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:12:12,733 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:12:12,733 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:12:40,797 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:12:40,797 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:12:40,797 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:12:40,797 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:12:47,423 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:12:47,423 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:12:47,423 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:12:47,423 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:12:49,345 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:12:49,345 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:12:49,345 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:12:49,345 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:12:55,830 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:12:55,830 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:12:55,830 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:12:55,830 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:13:05,472 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:13:05,472 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:13:05,472 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:13:05,472 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:13:08,706 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:13:08,722 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:13:08,722 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:13:08,722 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:13:11,003 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:13:11,003 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:13:11,003 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:13:11,003 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:13:15,457 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:13:15,473 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:13:15,473 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:13:15,473 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:13:19,770 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:13:19,770 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:13:19,770 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:13:19,770 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:13:22,833 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:13:22,833 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:13:22,833 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:13:22,833 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:13:24,302 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:13:24,317 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:13:24,317 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:13:24,317 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:13:28,849 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:13:28,849 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:13:28,865 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:13:28,865 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:13:35,506 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:13:35,506 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:13:35,506 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:13:35,506 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:13:44,913 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:13:44,913 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:13:44,913 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:13:44,913 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:13:54,430 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:13:54,430 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:13:54,430 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:13:54,430 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:13:59,681 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:13:59,681 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:13:59,681 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:13:59,681 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:14:09,369 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:14:09,385 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:14:09,385 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:14:09,385 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:15:59,520 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:15:59,520 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:15:59,520 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:15:59,520 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:16:09,505 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:16:09,505 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:16:09,505 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:16:09,505 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:16:35,030 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:16:35,030 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:16:35,030 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:16:35,030 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:17:46,325 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:17:46,325 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:17:46,325 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:17:46,325 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:18:07,787 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:18:07,803 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:18:07,803 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:18:07,803 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:18:21,299 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:18:21,299 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:18:21,299 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:18:21,299 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:18:40,413 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:18:40,413 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:18:40,413 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:18:40,413 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:18:45,772 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:18:45,772 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:18:45,772 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:18:45,772 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:19:05,977 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:19:05,977 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:19:05,977 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:19:05,977 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:19:08,556 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:19:08,556 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:19:08,556 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:19:08,556 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:19:16,663 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:19:16,663 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:19:16,663 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:19:16,663 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:19:24,818 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:19:24,818 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:19:24,818 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:19:24,818 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:19:48,768 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:19:48,768 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:19:48,768 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:19:48,768 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:19:57,113 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:19:57,113 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:19:57,113 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:19:57,113 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:20:12,083 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:20:12,083 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:20:12,083 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:20:12,083 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:20:19,177 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:20:19,177 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:20:19,177 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:20:19,177 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:20:24,428 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:20:24,428 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:20:24,428 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:20:24,428 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:20:26,631 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:20:26,631 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:20:26,631 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:20:26,631 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:20:38,929 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:20:38,929 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:20:38,929 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:20:38,929 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:20:40,878 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:20:40,878 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:20:40,878 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:20:40,878 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:20:50,643 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:20:50,643 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:20:50,643 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:20:50,643 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:20:53,409 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:20:53,409 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:20:53,409 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:20:53,409 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:21:01,629 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:21:01,629 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:21:01,629 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:21:01,629 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:21:05,551 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:21:05,551 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:21:05,551 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:21:05,551 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:21:15,363 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:21:15,363 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:21:15,363 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:21:15,363 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:21:20,005 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:21:20,005 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:21:20,005 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:21:20,005 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:21:22,880 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:21:22,880 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:21:22,880 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:21:22,880 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:22:08,191 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:22:08,191 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:22:08,207 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:22:08,207 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:22:18,535 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:22:18,535 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:22:18,550 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:22:18,550 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:22:48,998 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:22:48,998 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:22:48,998 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:22:48,998 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:23:16,337 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:23:16,337 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:23:16,337 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:23:16,337 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:23:47,536 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:23:47,536 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:23:47,536 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:23:47,536 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:24:50,195 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:24:50,195 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:24:50,211 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:24:50,211 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:24:52,601 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:24:52,601 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:24:52,601 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:24:52,601 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:25:00,087 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:25:00,087 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:25:00,087 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:25:00,087 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:25:17,624 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:25:17,624 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:25:17,624 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:25:17,624 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:25:19,405 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:25:19,405 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:25:19,405 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:25:19,405 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:26:30,495 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:26:30,495 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:26:30,495 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:26:30,495 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:26:42,152 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:26:42,152 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:26:42,152 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:26:42,152 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:26:46,090 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:26:46,090 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:26:46,090 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:26:46,090 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:26:51,060 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:26:51,060 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:26:51,060 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:26:51,060 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:27:33,657 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:27:33,657 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:27:33,657 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:27:33,657 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:28:25,719 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:28:25,719 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:28:25,719 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:28:25,719 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:28:44,315 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:28:44,315 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:28:44,315 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:28:44,315 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:28:48,733 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:28:48,733 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:28:48,733 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:28:48,733 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:29:09,220 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:29:09,220 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:29:09,235 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:29:09,235 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:29:10,782 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:29:10,782 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:29:10,782 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:29:10,782 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:29:34,654 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:29:34,654 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:29:34,654 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:29:34,654 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:29:53,555 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:29:53,555 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:29:53,555 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:29:53,555 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:29:55,992 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:29:55,992 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:29:55,992 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:29:55,992 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:30:01,102 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:30:01,102 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:30:01,102 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:30:01,102 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:30:27,597 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:30:27,597 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:30:27,597 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:30:27,597 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:31:34,138 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:31:34,138 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:31:34,138 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:31:34,138 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:31:44,482 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:31:44,482 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:31:44,498 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:31:44,498 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:32:08,673 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:32:08,688 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:32:08,688 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:32:08,688 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 15:32:35,972 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:32:35,988 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 15:32:35,988 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 15:32:35,988 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:05:36,887 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:05:36,887 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:05:36,887 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:05:36,887 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:05:59,514 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:05:59,514 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:05:59,514 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:05:59,514 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:06:15,688 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:06:15,688 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:06:15,688 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:06:15,688 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:06:21,939 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:06:21,939 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:06:21,939 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:06:21,939 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:06:54,567 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:06:54,567 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:06:54,567 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:06:54,567 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:07:01,568 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:07:01,568 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:07:01,584 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:07:01,584 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:07:07,037 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:07:07,037 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:07:07,037 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:07:07,037 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:07:30,696 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:07:30,696 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:07:30,696 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:07:30,696 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:07:40,494 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:07:40,494 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:07:40,494 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:07:40,494 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:07:50,698 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:07:50,698 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:07:50,698 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:07:50,698 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:08:13,654 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:08:13,654 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:08:13,654 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:08:13,654 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:08:32,375 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:08:32,375 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:08:32,375 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:08:32,375 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:09:17,159 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:09:17,159 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:09:17,159 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:09:17,159 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:09:40,243 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:09:40,243 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:09:40,243 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:09:40,243 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:09:56,104 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:09:56,104 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:09:56,104 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:09:56,104 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:10:07,871 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:10:07,871 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:10:07,871 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:10:07,871 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:10:50,626 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:10:50,626 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:10:50,626 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:10:50,626 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:10:54,298 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:10:54,314 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:10:54,314 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:10:54,314 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:10:57,033 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:10:57,033 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:10:57,033 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:10:57,033 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:10:59,767 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:10:59,783 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:10:59,783 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:10:59,783 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:11:21,098 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:11:21,098 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:11:21,098 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:11:21,098 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:11:24,036 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:11:24,036 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:11:24,036 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:11:24,036 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:11:29,427 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:11:29,427 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:11:29,427 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:11:29,427 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:11:31,599 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:11:31,599 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:11:31,599 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:11:31,599 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:11:50,423 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:11:50,423 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:11:50,423 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:11:50,423 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:12:05,597 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:12:05,597 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:12:05,597 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:12:05,597 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:24:47,174 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:24:47,174 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:24:47,189 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:24:47,189 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:25:03,660 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:25:03,660 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:25:03,660 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:25:03,660 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:25:11,833 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:25:11,833 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:25:11,833 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:25:11,833 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:25:21,818 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:25:21,818 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:25:21,818 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:25:21,818 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:25:42,555 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:25:42,555 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:25:42,555 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:25:42,555 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:26:02,104 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:26:02,104 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:26:02,104 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:26:02,104 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:26:27,013 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:26:27,013 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:26:27,013 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:26:27,013 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:26:36,170 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:26:36,170 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:26:36,170 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:26:36,170 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:26:48,765 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:26:48,765 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:26:48,765 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:26:48,765 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:26:52,422 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:26:52,422 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:26:52,422 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:26:52,422 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:26:55,875 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:26:55,875 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:26:55,875 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:26:55,875 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:27:04,860 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:27:04,860 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:27:04,860 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:27:04,860 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:27:07,329 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:27:07,329 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:27:07,329 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:27:07,329 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:27:14,033 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:27:14,049 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:27:14,049 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:27:14,049 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:27:26,597 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:27:26,597 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:27:26,597 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:27:26,597 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:27:34,395 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:27:34,395 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:27:34,395 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:27:34,395 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:27:38,395 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:27:38,395 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:27:38,395 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:27:38,395 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:27:40,380 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:27:40,380 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:27:40,380 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:27:40,380 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:30:00,276 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:30:00,276 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:30:00,276 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:30:00,276 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:30:54,220 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:30:54,220 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:30:54,220 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:30:54,220 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:30:59,174 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:30:59,174 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:30:59,174 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:30:59,174 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:32:32,342 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:32:32,342 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:32:32,342 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:32:32,342 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:32:34,889 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:32:34,889 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:32:34,889 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:32:34,889 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:32:37,217 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:32:37,217 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:32:37,217 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:32:37,217 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:32:49,500 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:32:49,515 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:32:49,515 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:32:49,515 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:32:52,875 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:32:52,875 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:32:52,875 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:32:52,875 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:32:55,329 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:32:55,329 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:32:55,329 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:32:55,329 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:32:56,626 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:32:56,626 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:32:56,626 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:32:56,626 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:32:59,532 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:32:59,532 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:32:59,532 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:32:59,532 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:33:02,423 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:33:02,423 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:33:02,423 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:33:02,423 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:33:40,574 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:33:40,574 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:33:40,574 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:33:40,574 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:34:04,231 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:34:04,231 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:34:04,231 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:34:04,231 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:34:06,856 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:34:06,856 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:34:06,856 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:34:06,856 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:34:25,242 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:34:25,242 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:34:25,242 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:34:25,257 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:37:17,480 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:37:17,480 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:37:17,480 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:37:17,480 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:37:20,340 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:37:20,340 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:37:20,340 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:37:20,340 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:39:16,898 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:39:16,898 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:39:16,898 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:39:16,898 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:39:19,257 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:39:19,257 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:39:19,257 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:39:19,257 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:41:08,436 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:41:08,436 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:41:08,436 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:41:08,436 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:41:12,874 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:41:12,874 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:41:12,874 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:41:12,874 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:41:16,107 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:41:16,107 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:41:16,107 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:41:16,107 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:42:23,435 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:42:23,435 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:42:23,435 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:42:23,435 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:42:27,076 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:42:27,076 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:42:27,076 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:42:27,076 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:42:40,421 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:42:40,421 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:42:40,421 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:42:40,421 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:42:48,953 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:42:48,953 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:42:48,953 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:42:48,953 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:48:34,622 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:48:34,622 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:48:34,622 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:48:34,622 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:49:31,597 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:49:31,597 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:49:31,597 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:49:31,597 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:49:40,723 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:49:40,723 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:49:40,723 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:49:40,723 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 19:51:45,028 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:51:45,044 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 19:51:45,044 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 19:51:45,044 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:01:16,977 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:01:16,977 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:01:16,977 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:01:16,977 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:05:48,359 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:05:48,359 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:05:48,359 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:05:48,359 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:07:51,857 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:07:51,873 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:07:51,873 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:07:51,873 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:09:39,670 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:09:39,670 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:09:39,670 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:09:39,670 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:18:20,763 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:18:20,763 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:18:20,763 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:18:20,763 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:18:21,857 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:18:21,857 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:18:21,857 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:18:21,857 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:18:26,092 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:18:26,092 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:18:26,092 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:18:26,092 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:19:08,409 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:19:08,409 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:19:08,409 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:19:08,409 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:19:11,065 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:19:11,065 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:19:11,065 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:19:11,065 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:23:04,484 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:23:04,484 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:23:04,499 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:23:04,499 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:23:08,781 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:23:08,781 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:23:08,781 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:23:08,781 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:23:29,517 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:23:29,517 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:23:29,517 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:23:29,517 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:23:37,471 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:23:37,471 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:23:37,471 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:23:37,471 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:23:47,926 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:23:47,926 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:23:47,926 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:23:47,926 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:23:50,989 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:23:50,989 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:23:50,989 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:23:50,989 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:24:32,071 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:24:32,071 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:24:32,071 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:24:32,071 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:24:43,979 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:24:43,979 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:24:43,979 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:24:43,979 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:24:50,776 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:24:50,776 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:24:50,776 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:24:50,776 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:25:02,527 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:25:02,543 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:25:02,543 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:25:02,543 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:25:24,264 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:25:24,264 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:25:24,264 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:25:24,264 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:25:32,015 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:25:32,015 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:25:32,015 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:25:32,015 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:25:37,750 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:25:37,750 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:25:37,750 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:25:37,750 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:25:40,375 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:25:40,375 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:25:40,391 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:25:40,391 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:26:05,644 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:26:05,644 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:26:05,644 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:26:05,644 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:26:09,394 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:26:09,394 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:26:09,394 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:26:09,394 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:31:26,059 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:31:26,059 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:31:26,059 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:31:26,059 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:31:35,247 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:31:35,247 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:31:35,247 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:31:35,247 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:32:49,477 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:32:49,477 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:32:49,493 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:32:49,493 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:32:57,400 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:32:57,400 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:32:57,400 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:32:57,400 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:32:59,041 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:32:59,041 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:32:59,041 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:32:59,041 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:34:47,011 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:34:47,012 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:34:47,014 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:34:47,014 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:35:15,914 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:35:15,915 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:35:15,916 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:35:15,917 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:35:18,167 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:35:18,169 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:35:18,170 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:35:18,170 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:35:44,789 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:35:44,790 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:35:44,791 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:35:44,792 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:35:49,601 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:35:49,602 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:35:49,603 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:35:49,603 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:35:52,832 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:35:52,833 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:35:52,834 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:35:52,835 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:36:02,698 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:36:02,699 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:36:02,700 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:36:02,701 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:36:11,739 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:36:11,740 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:36:11,741 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:36:11,742 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:36:20,630 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:36:20,631 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:36:20,633 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:36:20,633 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:36:22,973 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:36:22,975 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:36:22,976 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:36:22,976 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:42:27,138 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:42:27,138 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:42:27,138 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:42:27,138 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:46:02,236 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:46:02,236 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:46:02,236 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:46:02,236 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:46:16,206 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:46:16,206 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:46:16,206 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:46:16,206 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:46:19,535 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:46:19,535 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:46:19,535 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:46:19,535 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:46:33,785 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:46:33,785 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:46:33,785 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:46:33,785 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:47:04,130 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:47:04,130 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:47:04,130 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:47:04,130 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:47:36,817 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:47:36,817 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:47:36,817 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:47:36,817 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:48:23,755 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:48:23,755 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:48:23,755 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:48:23,755 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:48:27,249 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:48:27,249 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:48:27,249 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:48:27,249 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:48:40,657 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:48:40,657 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:48:40,657 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:48:40,657 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:48:55,205 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:48:55,205 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:48:55,205 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:48:55,205 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:49:18,638 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:49:18,638 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:49:18,638 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:49:18,638 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:49:23,233 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:49:23,233 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:49:23,233 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:49:23,233 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:49:36,991 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:49:36,991 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:49:36,991 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:49:36,991 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:49:42,210 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:49:42,210 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:49:42,210 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:49:42,210 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:49:45,461 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:49:45,461 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:49:45,476 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:49:45,476 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:50:29,711 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:50:29,711 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:50:29,711 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:50:29,711 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:50:33,102 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:50:33,102 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:50:33,102 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:50:33,102 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:51:27,664 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:51:27,664 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:51:27,664 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:51:27,664 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:51:40,087 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:51:40,087 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:51:40,087 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:51:40,087 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:51:46,713 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:51:46,713 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:51:46,713 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:51:46,713 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:51:48,854 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:51:48,854 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:51:48,854 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:51:48,854 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 20:52:41,922 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:52:41,922 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 20:52:41,922 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 20:52:41,922 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 21:12:08,888 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:12:08,888 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 21:12:08,888 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:12:08,888 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 21:12:28,249 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:12:28,249 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 21:12:28,249 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:12:28,249 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 21:12:35,500 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:12:35,500 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 21:12:35,515 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:12:35,515 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 21:12:37,594 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:12:37,594 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 21:12:37,594 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:12:37,594 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 21:12:48,626 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:12:48,626 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 21:12:48,626 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:12:48,626 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 21:12:59,065 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:12:59,065 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 21:12:59,065 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:12:59,065 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 21:13:26,847 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:13:26,847 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 21:13:26,847 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:13:26,847 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 21:15:04,908 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:15:04,908 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 21:15:04,908 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:15:04,908 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 21:21:53,044 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:21:53,044 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 21:21:53,044 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:21:53,044 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 21:21:59,826 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:21:59,826 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 21:21:59,826 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:21:59,826 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 21:22:05,436 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:22:05,436 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 21:22:05,436 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:22:05,436 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 21:22:10,421 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:22:10,421 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 21:22:10,421 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:22:10,421 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 21:22:31,195 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:22:31,195 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 21:22:31,195 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:22:31,195 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 21:22:38,742 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:22:38,742 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 21:22:38,742 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:22:38,742 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 21:22:44,243 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:22:44,243 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 21:22:44,243 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:22:44,243 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 21:22:55,385 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:22:55,385 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 21:22:55,385 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:22:55,385 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 21:23:12,183 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:23:12,183 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 21:23:12,183 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:23:12,183 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 21:23:16,543 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:23:16,543 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 21:23:16,543 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:23:16,543 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 21:23:24,622 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:23:24,622 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 21:23:24,622 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:23:24,622 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 21:23:27,748 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:23:27,748 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 21:23:27,748 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:23:27,748 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 21:23:39,530 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:23:39,530 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 21:23:39,530 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:23:39,530 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 21:23:42,843 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:23:42,843 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 21:23:42,843 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:23:42,843 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 21:24:00,111 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:24:00,111 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 21:24:00,111 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:24:00,111 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
+2016-09-04 21:24:02,408 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:24:02,408 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-09-04 21:24:02,408 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-04 21:24:02,408 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User-Lw\Desktop\telegrambot_without_database\weatherbot\src\test\resources
