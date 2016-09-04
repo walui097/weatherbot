@@ -87,14 +87,14 @@ public class HKWeatherHandlers extends TelegramLongPollingBot {
     }
     
     private void startAlertTimers() {
-    	for(int i=0; i<60; i++)
+    	for(int i=0; i<48; i++)
     	{    	
 	        TimerExecutor.getInstance().startExecutionEveryDayAt(new CustomTimerTask(i + " alert", -1) {
 	            @Override
 	            public void execute() {
 	                sendAlerts();
 	            }
-	        }, 12, i, 0);
+	        }, i%2, (i%2)*30, 0);
     	}
     }
 
@@ -102,6 +102,10 @@ public class HKWeatherHandlers extends TelegramLongPollingBot {
     	List<WeatherSubscribe> allSubscribes = DatabaseManager.getInstance().getAllSubscribes();
         for (WeatherSubscribe weatherSubscribe : allSubscribes) {
             
+	    	System.out.println(weatherSubscribe.getSubscribeCurrentWeather());
+	    	System.out.println(weatherSubscribe.getSubscribeWarning());
+	    	System.out.println(weatherSubscribe.getUserId());
+    	
 	        if (weatherSubscribe.getSubscribeCurrentWeather())
 	        {
 	            synchronized (Thread.currentThread()) {

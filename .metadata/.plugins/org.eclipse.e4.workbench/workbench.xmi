@@ -78,8 +78,8 @@
               <children xsi:type="advanced:Placeholder" xmi:id="_hm89wHFtEearIsurAI1yHw" elementId="org.eclipse.jdt.ui.TypeHierarchy" toBeRendered="false" ref="_hlwq7nFtEearIsurAI1yHw"/>
               <children xsi:type="advanced:Placeholder" xmi:id="_hm89wXFtEearIsurAI1yHw" elementId="org.eclipse.jdt.ui.PackagesView" toBeRendered="false" ref="_hmzMsHFtEearIsurAI1yHw"/>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_hm89wnFtEearIsurAI1yHw" containerData="8281" selectedElement="_hm89w3FtEearIsurAI1yHw">
-              <children xsi:type="basic:PartSashContainer" xmi:id="_hm89w3FtEearIsurAI1yHw" containerData="8536" selectedElement="_hm89xHFtEearIsurAI1yHw" horizontal="true">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_hm89wnFtEearIsurAI1yHw" containerData="8281" selectedElement="_hm89yHFtEearIsurAI1yHw">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_hm89w3FtEearIsurAI1yHw" containerData="6000" selectedElement="_hm89xHFtEearIsurAI1yHw" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_hm89xHFtEearIsurAI1yHw" elementId="org.eclipse.ui.editorss" containerData="9000" ref="_hldI4HFtEearIsurAI1yHw">
                   <tags>MinimizedByZoom</tags>
                 </children>
@@ -90,7 +90,7 @@
                   <children xsi:type="advanced:Placeholder" xmi:id="_hm89x3FtEearIsurAI1yHw" elementId="org.eclipse.mylyn.tasks.ui.views.tasks" ref="_hm89unFtEearIsurAI1yHw"/>
                 </children>
               </children>
-              <children xsi:type="basic:PartStack" xmi:id="_hm89yHFtEearIsurAI1yHw" elementId="bottomRight" containerData="1464" selectedElement="_hm890HFtEearIsurAI1yHw">
+              <children xsi:type="basic:PartStack" xmi:id="_hm89yHFtEearIsurAI1yHw" elementId="bottomRight" containerData="4000" selectedElement="_hm890HFtEearIsurAI1yHw">
                 <tags>Maximized</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_hm89yXFtEearIsurAI1yHw" elementId="org.eclipse.ui.views.AllMarkersView" ref="_hmzMsXFtEearIsurAI1yHw"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_hm89ynFtEearIsurAI1yHw" elementId="org.eclipse.ui.views.PropertySheet" ref="_hmzMsnFtEearIsurAI1yHw"/>
@@ -132,23 +132,23 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_hldI4HFtEearIsurAI1yHw" elementId="org.eclipse.ui.editorss" selectedElement="_hldI4XFtEearIsurAI1yHw">
-      <children xsi:type="basic:PartStack" xmi:id="_hldI4XFtEearIsurAI1yHw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_nQ-ZAHJkEeatX-JBoIE2bg">
+      <children xsi:type="basic:PartStack" xmi:id="_hldI4XFtEearIsurAI1yHw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_3HiXAHF9EearIsurAI1yHw">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
         <children xsi:type="basic:Part" xmi:id="_3HiXAHF9EearIsurAI1yHw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="HKWeatherHandlers.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;HKWeatherHandlers.java&quot; partName=&quot;HKWeatherHandlers.java&quot; title=&quot;HKWeatherHandlers.java&quot; tooltip=&quot;weatherbot/src/main/java/org/telegram/updateshandlers/HKWeatherHandlers.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weatherbot/src/main/java/org/telegram/updateshandlers/HKWeatherHandlers.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;17874&quot; selectionTopPixel=&quot;672&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_nQ-ZAHJkEeatX-JBoIE2bg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="DatabaseManager.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DatabaseManager.java&quot; partName=&quot;DatabaseManager.java&quot; title=&quot;DatabaseManager.java&quot; tooltip=&quot;weatherbot/src/main/java/org/telegram/database/DatabaseManager.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weatherbot/src/main/java/org/telegram/database/DatabaseManager.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;756&quot; selectionTopPixel=&quot;1440&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;HKWeatherHandlers.java&quot; partName=&quot;HKWeatherHandlers.java&quot; title=&quot;HKWeatherHandlers.java&quot; tooltip=&quot;weatherbot/src/main/java/org/telegram/updateshandlers/HKWeatherHandlers.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weatherbot/src/main/java/org/telegram/updateshandlers/HKWeatherHandlers.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;3133&quot; selectionTopPixel=&quot;1668&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
           <tags>active</tags>
           <tags>activeOnClose</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_nQ-ZAHJkEeatX-JBoIE2bg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="DatabaseManager.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DatabaseManager.java&quot; partName=&quot;DatabaseManager.java&quot; title=&quot;DatabaseManager.java&quot; tooltip=&quot;weatherbot/src/main/java/org/telegram/database/DatabaseManager.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/weatherbot/src/main/java/org/telegram/database/DatabaseManager.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;3&quot; selectionOffset=&quot;3311&quot; selectionTopPixel=&quot;1620&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
         </children>
       </children>
     </sharedElements>
@@ -263,7 +263,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_hcNtUnFtEearIsurAI1yHw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_Q6iX8HJjEeatX-JBoIE2bg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_hGkPIHFtEearIsurAI1yHw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_HhQq4HKkEeal8I5JZiMhqA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_hGkPIHFtEearIsurAI1yHw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_hcNtU3FtEearIsurAI1yHw" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -293,7 +293,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_hcNtV3FtEearIsurAI1yHw" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_Q6lbQHJjEeatX-JBoIE2bg" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_hGkOvnFtEearIsurAI1yHw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_HhQq6nKkEeal8I5JZiMhqA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_hGkOvnFtEearIsurAI1yHw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_hcNtWHFtEearIsurAI1yHw" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
