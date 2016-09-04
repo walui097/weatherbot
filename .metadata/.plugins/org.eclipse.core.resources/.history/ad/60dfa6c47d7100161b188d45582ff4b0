@@ -1,0 +1,8 @@
+package org.telegram;
+
+public class BotConfig {
+	
+    public static final String HKWEATHER_TOKEN = "180506733:AAFhNZxT1tkXIyju-aEgOIUSRo4Qtb0hdeo";
+    public static final String HKWEATHER_USER = "xhkweatherbot";
+
+}

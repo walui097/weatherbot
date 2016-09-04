@@ -1,0 +1,110 @@
+package org.telegram.services;
+
+import org.apache.http.HttpEntity;
+import org.apache.http.client.methods.CloseableHttpResponse;
+import org.apache.http.client.methods.HttpGet;
+import org.apache.http.conn.ssl.NoopHostnameVerifier;
+import org.apache.http.entity.BufferedHttpEntity;
+import org.apache.http.impl.client.CloseableHttpClient;
+import org.apache.http.impl.client.HttpClientBuilder;
+import org.apache.http.util.EntityUtils;
+import org.json.JSONException;
+import org.json.JSONObject;
+import org.json.XML;
+import org.jsoup.Jsoup;
+import org.telegram.telegrambots.logging.BotLogger;
+
+public class WeatherServices {
+	
+    private static final String LOGTAG = "WEATHERSERVICES";
+    
+	private static volatile WeatherServices instance;
+	
+    /**
+     * Constructor (private due to singleton pattern)
+     */
+    private WeatherServices() {
+    }
+
+    /**
+     * Singleton
+     *
+     * @return Return the instance of this class
+     */
+    public static WeatherServices getInstance() {
+    	WeatherServices currentInstance;
+        if (instance == null) {
+            synchronized (WeatherServices.class) {
+                if (instance == null) {
+                    instance = new WeatherServices();
+                }
+                currentInstance = instance;
+            }
+        } else {
+            currentInstance = instance;
+        }
+        return currentInstance;
+    }
+    
+    /**
+     * Fetch the current weather
+     *
+     */
+    public String fetchCurrentWeather(String language) {
+        String responseToUser = LanguageServices.getInstance().getString("weatherInformationNotFound", language);    	
+        try {
+            CloseableHttpClient client = HttpClientBuilder.create().setSSLHostnameVerifier(new NoopHostnameVerifier()).build();
+            HttpGet request = new HttpGet(LanguageServices.getInstance().getString("currentweatherurl", language));
+
+            CloseableHttpResponse response = client.execute(request);
+            HttpEntity ht = response.getEntity();
+
+            BufferedHttpEntity buf = new BufferedHttpEntity(ht);
+            String responseString = EntityUtils.toString(buf, "UTF-8");
+        	try {
+                JSONObject xmlJSONObj = XML.toJSONObject(responseString);
+                String tempString = xmlJSONObj.getJSONObject("rss").getJSONObject("channel").getJSONObject("item").getString("description");
+            	responseToUser = Jsoup.parse(tempString.substring(tempString.indexOf("<p>"), tempString.indexOf("</p>"))).text();           					
+                //System.out.println(responseToUser);
+                //System.out.println(xmlJSONObj.getJSONObject("rss").getJSONObject("channel").getJSONObject("item"));
+            } catch (JSONException e) {
+            	BotLogger.warn(LOGTAG, e);
+            }
+        } catch (Exception e) {
+            BotLogger.error(LOGTAG, e);
+            responseToUser = LanguageServices.getInstance().getString("errorFetchingWeather", language);
+        }
+        return responseToUser;
+    }
+
+    /**
+     * Fetch the current weather
+     *
+     */
+    public String fetchCurrentWarning(String language) {
+    	 String responseToUser = LanguageServices.getInstance().getString("weatherInformationNotFound", language);    	
+         try {
+             CloseableHttpClient client = HttpClientBuilder.create().setSSLHostnameVerifier(new NoopHostnameVerifier()).build();
+             HttpGet request = new HttpGet(LanguageServices.getInstance().getString("currentwarningurl", language));
+
+             CloseableHttpResponse response = client.execute(request);
+             HttpEntity ht = response.getEntity();
+
+             BufferedHttpEntity buf = new BufferedHttpEntity(ht);
+             String responseString = EntityUtils.toString(buf, "UTF-8");
+         	try {
+                 JSONObject xmlJSONObj = XML.toJSONObject(responseString);                 
+                 responseToUser = xmlJSONObj.getJSONObject("rss").getJSONObject("channel").getJSONObject("item").getString("description");
+                 //System.out.println(xmlJSONObj.getJSONObject("rss").getJSONObject("channel").getJSONObject("item").getString("description"));
+                 //System.out.println(xmlJSONObj.getJSONObject("rss").getJSONObject("channel").getJSONObject("item"));
+             } catch (JSONException e) {
+             	BotLogger.warn(LOGTAG, e);
+             }
+         } catch (Exception e) {
+             BotLogger.error(LOGTAG, e);
+             responseToUser = LanguageServices.getInstance().getString("errorFetchingWeather", language);
+         }
+         return responseToUser;
+    }
+	
+}

@@ -1,0 +1,10 @@
+chooseOption=Please, select an option from the menu.
+currentweather=Current Weather
+warning=Current Warning
+subscribe=Subscribe
+language=Language
+languageUpdated=Your language setting has been updated.
+english=English
+chinese=Chinese
+onLanguageCommand=Please, select language from the menu.
+onSubscribeCommand=Please, select subscribe/unsubscribe from the menu.

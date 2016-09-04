@@ -1,0 +1,33 @@
+chooseOption=Please, select an option from the menu.
+currentweather=Current Weather
+warning=Current Warning
+subscribe=Subscribe
+language=Language
+
+english=English
+chinese=Chinese
+
+subscribecurrentweather=Subscribe Current Weather
+subscribewarning=Subscribe Warning
+unsubscribecurrentweather=Unsubscribe Current Weather
+unsubscribewarning=Unsubscribe Warning
+
+onLanguageCommand=Please, select language from the menu.
+languageUpdated=Your language setting has been updated.
+
+onSubscribeCommand=Please, select subscribe/unsubscribe from the menu.
+subscribeUpdated=Weather Information have been subscribed/unsubscribe.
+
+currentweatherurl=http://rss.weather.gov.hk/rss/CurrentWeather.xml
+currentwarningurl=http://rss.weather.gov.hk/rss/WeatherWarningBulletin.xml
+
+weatherInformationNotFound=Weather Information Not Found.
+weatherWarningInformationNotFound=Weather Warning Information Not Found.
+errorFetchingWeather=Error Fetching Weather.
+
+addGroup=Add To Group
+queryWeather=Query Weather
+
+onQueryWeatherCommand=Please, select weather command from the menu.
+
+addGroupUpdated=Please, click the link to add to group.
